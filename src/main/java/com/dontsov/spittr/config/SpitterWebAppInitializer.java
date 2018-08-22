@@ -1,4 +1,4 @@
-package com.dontsov.spitter.config;
+package com.dontsov.spittr.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
